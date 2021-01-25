@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     title: {
         color: 'grey',
         fontWeight: 'bold',
-        titleSize: 20
+        fontSize: 20
     },
     week: {
         width: '100%',
